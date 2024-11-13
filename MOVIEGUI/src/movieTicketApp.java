@@ -14,7 +14,7 @@ movieTicketApp(){
     movie = new MovieTickets();
 
 
-    setTitle("Estate Agent Report");
+    setTitle("Movie Ticket Program");
     setSize(400,400);
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     setLayout(new BorderLayout());
